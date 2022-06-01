@@ -1,7 +1,7 @@
 {
-    "name": "𝗗𝗲𝘃𝘂 𝗠𝘂𝘀𝗶𝗰",
+    "name": "MUKHUSHI MUSIC 2.0",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://telegra.ph/file/6b451d267cc1d4aa1fefd.jpg",
+    "logo": "https://telegra.ph/file/d86fb745047998d4def7e.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -45,7 +45,7 @@
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "1996039846",
+        "value": "",
         "required": true
       },
       "STRING_SESSION": {
@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/S-UNSTOPPABLE/UNSTOPPABLEMUSICBOT",
+        "value": "https://github.com/Itz-mst-boy/MUSICBOT",
         "required": true
       },
       "UPSTREAM_BRANCH": {
